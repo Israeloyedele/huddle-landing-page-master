@@ -138,9 +138,6 @@ button {
     cursor: pointer;
     transform: translateY(-0.1em);
 }
-#links {
-    margin-bottom: 40px;
-}
 #social {
     display: flex;
     justify-content: center;

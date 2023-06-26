@@ -134,7 +134,7 @@ button {
     margin-bottom: 15px;
 }
 .links:hover {
-    border-bottom: 1px solid white;
+    text-decoration: underline;
     cursor: pointer;
     transform: translateY(-0.1em);
 }
